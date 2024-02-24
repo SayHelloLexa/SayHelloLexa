@@ -1,17 +1,20 @@
-<h1>🤟 Hello there</h1>
+<b>🤟 Hello there</b>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50px">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JS" width="50px">
   ![GitHub Streak](https://streak-stats.demolab.com/?user=SayHelloLexa) 
 
 
 
   
   <p align="right">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="100px">
+    
   </p>
   <p align="right">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="100px">
+    
   </p>
   <p align="right">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JS" width="100px">
+   
   </p>
 
 ![Top Languages](https://github-readme-stats-gamma-woad-31.vercel.app/api/top-langs/?username=SayHelloLexa&layout=compact)
