@@ -1,5 +1,6 @@
 <h1>🤟 Hello there</h1>
-
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=SayHelloLexa) 
+  
   <p align="right">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="100px">
   </p>
@@ -9,8 +10,6 @@
   <p align="right">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JS" width="100px">
   </p>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=SayHelloLexa) 
 
 ![Top Languages](https://github-readme-stats-gamma-woad-31.vercel.app/api/top-langs/?username=SayHelloLexa&layout=compact)
 
