@@ -1,5 +1,6 @@
 <h1>🤟 Hello there</h1>
   ![GitHub Streak](https://streak-stats.demolab.com/?user=SayHelloLexa) 
+
   
   <p align="right">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="100px">
