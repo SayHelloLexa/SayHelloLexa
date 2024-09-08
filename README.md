@@ -4,6 +4,8 @@
     📖 My stack ⚒️
     */==================
   </h2>
+
+  <h2>Stats</h2>
   
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50px">
